@@ -1,5 +1,6 @@
 # English language file for cState
-# Version 3.0
+# Official
+# Version 4.1
 
 - id: languageCode
   translation: en
@@ -83,7 +84,7 @@
   translation: of downtime
 
 - id: downtimeOngoing
-  translation: Unresolved!
+  translation: This issue is not resolved yet
 
 
 - id: calmBeforeTheStorm
@@ -137,3 +138,12 @@
 ##
 - id: notFoundAffected
   translation: It looks like this system either does not exist or has never had any recorded downtime.
+
+##
+## v4.1
+## 
+
+- id: averageSystemsDowntime
+  translation: Recently, based on average data, it looks like this system has gone down for about
+- id: averageSystemsDowntimeSecondPart
+  translation: minutes at a time.
